@@ -3,4 +3,4 @@ TalTech ICS0004 Fundamentals of Programming
 
 Course consisted of C-programming.
 
-This repository is a collection of different exam preparations and exercises done by Edvin Ess through out the course.
+This repository is a collection of different exam preparations and exercises done through out the course.
